@@ -102,3 +102,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# conceptual exercises
+exercises/conceptual/
