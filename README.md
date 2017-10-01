@@ -17,5 +17,5 @@ I'm trying to update the code, as I learn new tricks with scikit-learn and other
 - Chapter 6 [[Labs 1](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_6.5_subset_selection_methods.ipynb)] [[Labs 2](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_6.6_ridge_regression_and_the_lasso.ipynb)] [[Labs 3](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_6.7_pcr_and_pls_regression.ipynb)] [Exercises] - Linear Model Selection and Regularization
 - Chapter 7 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_7.8_non_linear_modelling.ipynb)] [Exercises] - Moving Beyond Linearity
 - Chapter 8 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_8.3_decision_trees.ipynb)] [Exercises] - Tree-Based Methods
-- Chapter 9 [Labs] [Exercises] - Support Vector Machines
+- Chapter 9 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_9.6_support_vector_machines.ipynb)] [Exercises] - Support Vector Machines
 - Chapter 10 [Labs] [Exercises] - Unsupervised Learning
