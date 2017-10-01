@@ -18,4 +18,4 @@ I'm trying to update the code, as I learn new tricks with scikit-learn and other
 - Chapter 7 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_7.8_non_linear_modelling.ipynb)] [Exercises] - Moving Beyond Linearity
 - Chapter 8 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_8.3_decision_trees.ipynb)] [Exercises] - Tree-Based Methods
 - Chapter 9 [[Labs](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_9.6_support_vector_machines.ipynb)] [Exercises] - Support Vector Machines
-- Chapter 10 [Labs] [Exercises] - Unsupervised Learning
+- Chapter 10 [[Labs 1](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_10.4_principal_components_analysis.ipynb)] [[Labs 2](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_10.5_clustering.ipynb)] [[Labs 3](https://nbviewer.jupyter.org/github/emredjan/ISL-python/blob/master/labs/lab_10.5_NCI60_data_example.ipynb)] [Exercises] - Unsupervised Learning
