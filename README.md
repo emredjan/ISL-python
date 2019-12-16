@@ -2,7 +2,7 @@
 
 Porting the R code in [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) to Python.
 
-<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%>
+<IMG src='http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg' height=20% width=20%>
 
 Inspired and sometimes borrowed from [Jordi Warmenhoven](https://github.com/JWarmenhoven/ISLR-python.git)'s and [Hyun Bong Lee](https://github.com/hyunblee/ISLR-with-Python)'s excellent repos.
 
